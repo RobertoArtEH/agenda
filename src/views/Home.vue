@@ -1,7 +1,6 @@
-<template>
-  <div class="home">
-    <h1>Agenda</h1>
-  </div>
+<template lang="pug">
+  .hopme
+    h1 Agenda
 </template>
 
 <script>
