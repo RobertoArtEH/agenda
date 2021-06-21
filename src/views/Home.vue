@@ -125,6 +125,7 @@ export default {
       this.closeForm()
     },
     closeForm () {
+      this.currentIndex = null
       this.showForm = false
       this.cleanForm()
     },
